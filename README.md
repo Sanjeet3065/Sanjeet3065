@@ -26,17 +26,21 @@
 <td>🎓 <b>Computer Science & Engineering Student</b></td>
 <td>💻 <b>Passionate about Full-Stack Web Development</b></td>
 </tr>
+
 <tr>
 <td>🌱 <b>Currently learning MERN Stack, Java, DSA & Cloud Computing</b></td>
 <td>🔨 <b>Currently working on Online Pharmacy Website</b></td>
 </tr>
+
 <tr>
 <td>🤝 <b>Open to collaborating on Web Development & Open Source Projects</b></td>
 <td>💬 <b>Ask me about MERN Stack, Java, JavaScript & DSA</b></td>
 </tr>
+
 <tr>
 <td colspan="2" align="center">
-📫 <b>Reach me at:</b> <a href="mailto:chauhansanjeet887@gmail.com">chauhansanjeet887@gmail.com</a>
+📫 <b>Reach me at:</b>
+<a href="mailto:chauhansanjeet887@gmail.com">chauhansanjeet887@gmail.com</a>
 <br>
 ⚡ <b>Fun fact:</b> I love learning by building real-world projects.
 </td>
@@ -53,14 +57,14 @@
 
 *A full-stack web application designed to provide an online platform for browsing and managing pharmacy products.*
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript" />
-
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript" />
+</p>
 
 <a href="https://github.com/Sanjeet3065/Online-Pharmacy-Website">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
 </a>
 
 </div>
@@ -71,39 +75,21 @@
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,php" />
 
-**🌐 Frontend**
+### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
 
-**⚙️ Backend & Database**
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-**☁️ Tools & Cloud**
+### ☁️ Tools & Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vscode" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="GitHub Stats"/>
-
-&nbsp;&nbsp;
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjeet3065&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
 
 </div>
 
@@ -135,27 +121,39 @@ alt="Contribution Calendar"/>
 
 ## 📌 GitHub Stats
 
+<table>
+<tr>
+
+<td align="center">
 <img height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeet3065&theme=tokyonight"
 alt="Repositories Per Language"/>
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center">
 <img height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeet3065&theme=tokyonight"
 alt="Most Commit Language"/>
+</td>
 
-<br>
+</tr>
 
+<tr>
+
+<td align="center">
 <img height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjeet3065&theme=tokyonight"
 alt="GitHub Statistics"/>
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center">
 <img height="170"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjeet3065&theme=tokyonight&utcOffset=5.5"
 alt="Productive Time"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -165,17 +163,19 @@ alt="Productive Time"/>
 
 ## 💻 Coding Profiles
 
+<br>
+
 <a href="https://leetcode.com/sanjeet_1080">
 <img src="https://img.shields.io/badge/LeetCode-sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/Sanjeet3065">
 <img src="https://img.shields.io/badge/GitHub-Sanjeet3065-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/sanjeetchauhan01">
 <img src="https://img.shields.io/badge/LinkedIn-Sanjeet%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -239,19 +239,57 @@ alt="Productive Time"/>
 </div>
 
 <table align="center">
+
 <tr>
 <th>🎯</th>
 <th>📌 Goal</th>
 </tr>
-<tr><td align="center">🚀</td><td>Become a strong <b>Full-Stack MERN Developer</b></td></tr>
-<tr><td align="center">🧠</td><td>Master <b>Data Structures & Algorithms</b></td></tr>
-<tr><td align="center">☕</td><td>Strengthen <b>Java & Object-Oriented Programming</b></td></tr>
-<tr><td align="center">💻</td><td>Build scalable and production-ready <b>real-world projects</b></td></tr>
-<tr><td align="center">☁️</td><td>Learn <b>AWS & Cloud Computing</b></td></tr>
-<tr><td align="center">🌎</td><td>Contribute to <b>Open Source</b></td></tr>
-<tr><td align="center">🧩</td><td>Improve problem-solving through <b>LeetCode & DSA</b></td></tr>
-<tr><td align="center">💼</td><td>Secure a <b>Software Engineering Internship</b></td></tr>
-<tr><td align="center">🎯</td><td>Become <b>Placement Ready</b></td></tr>
+
+<tr>
+<td align="center">🚀</td>
+<td>Become a strong <b>Full-Stack MERN Developer</b></td>
+</tr>
+
+<tr>
+<td align="center">🧠</td>
+<td>Master <b>Data Structures & Algorithms</b></td>
+</tr>
+
+<tr>
+<td align="center">☕</td>
+<td>Strengthen <b>Java & Object-Oriented Programming</b></td>
+</tr>
+
+<tr>
+<td align="center">💻</td>
+<td>Build scalable and production-ready <b>real-world projects</b></td>
+</tr>
+
+<tr>
+<td align="center">☁️</td>
+<td>Learn <b>AWS & Cloud Computing</b></td>
+</tr>
+
+<tr>
+<td align="center">🌎</td>
+<td>Contribute to <b>Open Source</b></td>
+</tr>
+
+<tr>
+<td align="center">🧩</td>
+<td>Improve problem-solving through <b>LeetCode & DSA</b></td>
+</tr>
+
+<tr>
+<td align="center">💼</td>
+<td>Secure a <b>Software Engineering Internship</b></td>
+</tr>
+
+<tr>
+<td align="center">🎯</td>
+<td>Become <b>Placement Ready</b></td>
+</tr>
+
 </table>
 
 ---
@@ -259,6 +297,8 @@ alt="Productive Time"/>
 <div align="center">
 
 ## 💭 Developer Quote
+
+<br>
 
 > **"First, solve the problem. Then, write the code."**  
 > **— John Johnson**
@@ -271,23 +311,25 @@ alt="Productive Time"/>
 
 ## 🤝 Let's Connect
 
+<br>
+
 <a href="mailto:chauhansanjeet887@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/sanjeetchauhan01">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/Sanjeet3065">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/sanjeet_1080">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -302,6 +344,8 @@ alt="Productive Time"/>
 # 🚀 Code • Learn • Build • Repeat
 
 ### ⭐ Thanks for visiting my profile!
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer"/>
 
