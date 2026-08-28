@@ -167,49 +167,119 @@ A full-stack web application designed to provide an online platform for browsing
 
 ## 📚 Currently Learning
 
-```text
-MERN Stack
-   ├── React.js
-   ├── Node.js
-   ├── Express.js
-   └── MongoDB
+<div align="center">
 
-Programming
-   ├── Java
-   ├── JavaScript
-   └── C++
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,javascript,cpp,aws" />
 
-Problem Solving
-   ├── Data Structures
-   ├── Algorithms
-   └── Competitive Programming
+</div>
 
-Cloud
-   └── AWS
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+### 🌐 MERN Stack
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+
+</td>
+
+<td>
+
+### 💻 Programming
+
+- ☕ Java
+- 🟨 JavaScript
+- 💠 C++
+
+</td>
+
+<td>
+
+### 🧠 Problem Solving
+
+- 📚 Data Structures
+- ⚡ Algorithms
+- 🏆 Competitive Programming
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🎯 2026 Goals
 
-- 🚀 Become a strong **Full-Stack MERN Developer**
-- 🧠 Master **Data Structures & Algorithms**
-- ☕ Strengthen **Java & Object-Oriented Programming**
-- 💻 Build scalable and production-ready **real-world projects**
-- ☁️ Learn **AWS & Cloud Computing**
-- 🌎 Contribute to **Open Source**
-- 🧩 Improve problem-solving through **LeetCode & DSA**
-- 💼 Secure a **Software Engineering Internship**
-- 🎯 Become **Placement Ready**
+<div align="center">
 
+| 🎯 Goal | 📌 Target |
+|:---:|:---|
+| 🚀 | Become a strong **Full-Stack MERN Developer** |
+| 🧠 | Master **Data Structures & Algorithms** |
+| ☕ | Strengthen **Java & OOPs** |
+| 💻 | Build **production-ready real-world projects** |
+| ☁️ | Learn **AWS & Cloud Computing** |
+| 🌎 | Contribute to **Open Source Projects** |
+| 🧩 | Improve problem-solving through **LeetCode & DSA** |
+| 💼 | Secure a **Software Engineering Internship** |
+| 🎓 | Become **Placement Ready** |
+
+</div>
 
 ---
 
 ## 💭 Developer Quote
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>— John Johnson</b>
-</p>
+### 💡
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</div>
 
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:chauhansanjeet887@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sanjeetchauhan01">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sanjeet3065">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/sanjeet_1080">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Code • Learn • Build • Repeat
+
+<br>
+
+<i>Thanks for visiting my profile! ⭐</i>
+
+</div>
+
+
+
+
