@@ -1,225 +1,227 @@
-<div align="center">
-
 # 👋 Hi, I'm Sanjeet Chauhan
 
-### 🚀 MERN Stack Developer | Java | DSA | Cloud Computing
+<h3 align="center">🚀 MERN Stack Developer | Java | DSA | Cloud Computing</h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/Sanjeet3065">
-    <img src="https://komarev.com/ghpvc/?username=Sanjeet3065&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=sanjeet3065&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Sanjeet3065?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sanjeet3065?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/Sanjeet3065?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/sanjeetchauhan01">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sanjeet_1080">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<p align="center">
   <a href="https://github.com/Sanjeet3065">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/last-commit/Sanjeet3065/Sanjeet3065?style=flat-square" alt="Last Commit"/>
   </a>
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-61DAFB?style=flat-square" alt="MERN Stack"/>
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=flat-square" alt="Java"/>
 </p>
-
-</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Full-Stack Web Developer
-- 🌱 Currently learning **MERN Stack, Java, DSA & Cloud Computing**
-- 🔨 Currently working on **Online Pharmacy Website**
-- 🤝 Open to collaborating on **Web Development & Open Source Projects**
-- 💬 Ask me about **MERN Stack, JavaScript, Java & DSA**
-- 📫 Email: **chauhansanjeet887@gmail.com**
-- ⚡ I love learning by building real-world projects.
+* 🎓 Computer Science & Engineering Student
+* 💻 Passionate about **Full-Stack Web Development**
+* 🌱 Currently learning **MERN Stack, Java, DSA & Cloud Computing**
+* 🔨 Currently working on **Online Pharmacy Website**
+* 🤝 Open to collaborating on **Web Development & Open Source Projects**
+* 💬 Ask me about **MERN Stack, Java, JavaScript & DSA**
+* 📫 Reach me at **[chauhansanjeet887@gmail.com](mailto:chauhansanjeet887@gmail.com)**
+* ⚡ Fun fact: **I love learning by building real-world projects.**
 
 ---
 
 ## 🚀 Featured Project
 
-<div align="center">
-
 ### 💊 Online Pharmacy Website
 
-A full-stack pharmacy web application built to provide an easy and convenient
-platform for browsing and managing pharmacy products.
+A full-stack web application designed to provide an online platform for browsing and managing pharmacy products.
 
-<br>
+**Tech Stack:**
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript" />
-
-<br><br>
-
-<a href="https://github.com/Sanjeet3065/Online-Pharmacy-Website">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://github.com/Sanjeet3065/Online-Pharmacy-Website">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,php" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,php" />
 </p>
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### ☁️ Tools & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet3065&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet3065&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjeet3065&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjeet3065&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjeet3065&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeet3065&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeet3065&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sanjeet3065/Sanjeet3065/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sanjeet3065/Sanjeet3065/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Sanjeet3065/Sanjeet3065/output/github-snake.svg"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanjeet3065/Sanjeet3065/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-# 📌 GitHub Summary
+## 📅 Contribution Calendar
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeet3065&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeet3065&theme=tokyonight" />
-
-<img height="180"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeet3065&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeet3065&theme=tokyonight" alt="Contribution Calendar"/>
+</p>
 
 ---
 
-# 💻 Coding Profiles
+## 📌 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeet3065&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeet3065&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjeet3065&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjeet3065&theme=tokyonight&utcOffset=5.5" height="170"/>
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
 
 <a href="https://leetcode.com/sanjeet_1080">
-<img src="https://img.shields.io/badge/LeetCode-sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-sanjeet__1080-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sanjeet3065">
-<img src="https://img.shields.io/badge/GitHub-Sanjeet3065-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Sanjeet3065-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sanjeetchauhan01">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjeet%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Sanjeet%20Chauhan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```text
 MERN Stack
-├── React.js
-├── Node.js
-├── Express.js
-└── MongoDB
+   ├── React.js
+   ├── Node.js
+   ├── Express.js
+   └── MongoDB
 
 Programming
-├── Java
-├── JavaScript
-└── C++
+   ├── Java
+   ├── JavaScript
+   └── C++
 
 Problem Solving
-├── Data Structures
-├── Algorithms
-└── LeetCode
+   ├── Data Structures
+   ├── Algorithms
+   └── Competitive Programming
 
 Cloud
-└── AWS
+   └── AWS
+```
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Strengthen JavaScript & MERN Stack
+* 🔄 Master Data Structures & Algorithms
+* 🔄 Build production-ready full-stack projects
+* 🔄 Learn AWS & Cloud Computing
+* 🎯 Contribute to Open Source
+* 🎯 Get a Software Engineering Internship
+* 🎯 Become Placement Ready
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:chauhansanjeet887@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sanjeetchauhan01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sanjeet3065">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/sanjeet_1080">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Code • Learn • Build • Repeat
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
