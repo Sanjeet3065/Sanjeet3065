@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./github-banner.png" alt="Sanjeet Chauhan - Developer Banner" width="100%"/>
+
+<br/>
+<br/>
+
 # 👋 Hi, I'm Sanjeet Chauhan
 
 ### 🚀 MERN Stack Developer | Java | DSA | Cloud Computing
@@ -34,15 +39,19 @@
 
 <tr>
 <td>🤝 <b>Open to collaborating on Web Development & Open Source Projects</b></td>
-<td>💬 <b>Ask me about MERN Stack, Java, JavaScript & DSA</b></td>
+<td>💬 <b>Ask me about MERN Stack, JavaScript, Java & DSA</b></td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
+
 📫 <b>Reach me at:</b>
 <a href="mailto:chauhansanjeet887@gmail.com">chauhansanjeet887@gmail.com</a>
+
 <br>
+
 ⚡ <b>Fun fact:</b> I love learning by building real-world projects.
+
 </td>
 </tr>
 </table>
@@ -55,7 +64,7 @@
 
 ### 💊 Online Pharmacy Website
 
-*A full-stack web application designed to provide an online platform for browsing and managing pharmacy products.*
+<i>A full-stack web application designed to provide an online platform for browsing and managing pharmacy products.</i>
 
 ### 🛠️ Tech Stack
 
@@ -99,8 +108,10 @@
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Sanjeet3065&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=Sanjeet3065&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -110,8 +121,10 @@ alt="GitHub Streak"/>
 
 ## 📅 Contribution Calendar
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeet3065&theme=tokyonight"
-alt="Contribution Calendar"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeet3065&theme=tokyonight"
+  alt="Contribution Calendar"
+/>
 
 </div>
 
@@ -125,15 +138,19 @@ alt="Contribution Calendar"/>
 <tr>
 
 <td align="center">
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeet3065&theme=tokyonight"
-alt="Repositories Per Language"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjeet3065&theme=tokyonight"
+  alt="Repositories Per Language"
+/>
 </td>
 
 <td align="center">
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeet3065&theme=tokyonight"
-alt="Most Commit Language"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjeet3065&theme=tokyonight"
+  alt="Most Commit Language"
+/>
 </td>
 
 </tr>
@@ -141,15 +158,19 @@ alt="Most Commit Language"/>
 <tr>
 
 <td align="center">
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjeet3065&theme=tokyonight"
-alt="GitHub Statistics"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanjeet3065&theme=tokyonight"
+  alt="GitHub Statistics"
+/>
 </td>
 
 <td align="center">
-<img height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjeet3065&theme=tokyonight&utcOffset=5.5"
-alt="Productive Time"/>
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanjeet3065&theme=tokyonight&utcOffset=5.5"
+  alt="Productive Time"
+/>
 </td>
 
 </tr>
