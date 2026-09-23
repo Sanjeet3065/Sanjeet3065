@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjeet%20Chauhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Cloud%20Computing&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Turning%20ideas%20into%20code%2C%20and%20code%20into%20solutions.%20%F0%9F%92%BB" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&deleteSpeed=50&color=00FF41&center=true&vCenter=true&width=700&lines=Turning%20ideas%20into%20code%2C%20and%20code%20into%20solutions.%20%F0%9F%92%BB;MERN%20Stack%20Developer;DSA%20%26%20Java%20Developer;Full-Stack%20Developer" alt="Typing introduction" />
 </p>
 
 <p align="center">
