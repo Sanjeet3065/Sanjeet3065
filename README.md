@@ -22,17 +22,21 @@
 <hr>
 
 <p>
-Computer Science Engineering student passionate about building scalable,
-reliable web applications and solving real-world problems.
+Computer Science Engineering student and Full-Stack Developer building
+scalable, reliable web applications and practical digital solutions.
 </p>
 
 <p>
-I focus on <strong>MERN Stack</strong>, <strong>Java</strong>,
-<strong>DSA</strong>, <strong>Backend Development</strong>,
-and <strong>Cloud Computing</strong>.
+Proficient in <strong>MERN Stack</strong>, <strong>Java</strong>,
+<strong>Data Structures &amp; Algorithms</strong>, <strong>Backend Development</strong>,
+and <strong>Cloud Computing</strong>, with hands-on experience in
+designing and developing real-world applications.
 </p>
 
-<br>
+<p>
+Strong emphasis on clean architecture, efficient problem solving,
+responsive user experiences, and maintainable code.
+</p>
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="29">
