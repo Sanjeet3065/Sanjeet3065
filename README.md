@@ -1,22 +1,48 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjeet%20Chauhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Cloud%20Computing&descSize=18&descAlignY=55&textBg=false"/>
 
 
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-## 📌 About Me
-- 🌱 I'm currently learning MERN Stack, Java, DSA & Cloud Computing
-- 💻 I'm building real-world web applications
-- 🤝 I'm looking to collaborate on interesting software projects
-- 🎯 I'm focused on becoming a skilled Software Developer
+# Sanjeet Chauhan
 
+### `MERN Stack Developer | Java | DSA | Cloud Computing`
 
-## 🧠 My Focus Areas
-- Web Development
-- Java & Data Structures & Algorithms
-- Backend Development
-- Cloud Computing
-- Full-Stack Application Development
-- Open Source & Real-World Projects
+Computer Science Engineering student focused on building
+modern, scalable web applications and solving algorithmic
+problems using Java and Data Structures & Algorithms.
 
+<p>
+  <a href="https://github.com/Sanjeet3065">
+    <img src="https://img.shields.io/badge/GitHub-Sanjeet3065-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjeet_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://wa.me/919118123480">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:chauhansanjeet887@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sanjeetchauhan832/">
+    <img src="https://img.shields.io/badge/Instagram-sanjeetchauhan832-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://illustrations.popsy.co/white/developer.svg" width="360" alt="Developer Illustration"/>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
