@@ -180,21 +180,26 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </tr>
 </table>
 
+
 ## 📊 GitHub & LeetCode Analytics
 
 <table align="center" width="100%">
 <tr>
 
-<!-- GITHUB -->
+<!-- ==================== GITHUB ==================== -->
 <td align="center" valign="top" width="50%">
 
 <h3>📊 GitHub Statistics</h3>
 
+<a href="https://github.com/Sanjeet3065">
+
 <img
   src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
-  alt="Sanjeet3065 GitHub Statistics"
+  alt="Sanjeet Chauhan GitHub Statistics"
   width="100%"
 />
+
+</a>
 
 <br><br>
 
@@ -202,35 +207,38 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 <img
   src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400"
-  alt="Sanjeet3065 GitHub Streak"
+  alt="Sanjeet Chauhan GitHub Streak"
   width="100%"
 />
 
 </td>
 
-<!-- LEETCODE -->
+
+<!-- ==================== LEETCODE ==================== -->
 <td align="center" valign="top" width="50%">
 
 <h3>🧑‍💻 LeetCode Statistics</h3>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Sanjeet_1080/">
 
 <img
-  src="https://github-readme-leetcode-stats.vercel.app/api?username=Sanjeet_1080&theme=dark"
-  alt="LeetCode Statistics"
+  src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Sanjeet_1080&theme=radical&sections=profile,solved,streak,skills&top_skills=8"
+  alt="Sanjeet_1080 LeetCode Statistics"
   width="100%"
 />
 
 </a>
 
-<br>
+<br><br>
 
-<sub>
-🔥 Total Solved &nbsp; • &nbsp;
-🟢 Easy &nbsp; • &nbsp;
-🟡 Medium &nbsp; • &nbsp;
-🔴 Hard
-</sub>
+<a href="https://leetcode.com/u/Sanjeet_1080/">
+
+<img
+  src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="Visit LeetCode Profile"
+/>
+
+</a>
 
 </td>
 
@@ -238,6 +246,8 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </table>
 
 <br/>
+
+
 
 ## 🔗 Connect with Me
 
