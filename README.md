@@ -76,73 +76,262 @@ responsive user experiences, and maintainable code.
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<table align="center">
+<tr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-</p>
+<!-- ==================== FRONTEND ==================== -->
+<td width="33%" valign="top">
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+
+### 🎨 Frontend
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/>
+<br/>
+<b>React</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<br/>
+<b>HTML5</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<br/>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" alt="Tailwind CSS"/>
+<br/>
+<b>Tailwind CSS</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="45" alt="Bootstrap"/>
+<br/>
+<b>Bootstrap</b>
+</td>
+
+<td></td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
 
 
-<h3 align="center">Frontend</h3>
+<!-- ==================== BACKEND ==================== -->
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-</p>
+<table width="100%" align="center">
+<tr>
+<td align="center">
 
+### ⚙️ Backend
 
-<h3 align="center">Backend</h3>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-</p>
+<table width="100%">
+<tr>
 
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+<br/>
+<b>Node.js</b>
+</td>
 
-<h3 align="center">Database</h3>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" alt="Express.js"/>
+<br/>
+<b>Express.js</b>
+</td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-</p>
+</tr>
+</table>
 
+</td>
+</tr>
+</table>
 
-<h3 align="center">DevOps & Cloud</h3>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-</p>
+</td>
 
 
-<h3 align="center">Tools</h3>
+<!-- ==================== DATABASE ==================== -->
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
+<table width="100%" align="center">
+<tr>
+<td align="center">
 
+### 🗄️ Database
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+<br/>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+<br/>
+<b>PostgreSQL</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+<br/>
+<b>MongoDB</b>
+</td>
+
+<td></td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+
+<!-- ==================== DEVOPS & TOOLS ==================== -->
+<tr>
+
+<!-- DEVOPS & CLOUD -->
+<td width="50%" valign="top" colspan="1">
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+
+### ☁️ DevOps & Cloud
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" alt="AWS"/>
+<br/>
+<b>AWS</b>
+</td>
+
+<td></td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<!-- TOOLS -->
+<td width="50%" valign="top" colspan="2">
+
+<table width="100%" align="center">
+<tr>
+<td align="center">
+
+### 🔧 Tools
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/>
+<br/>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" alt="VS Code"/>
+<br/>
+<b>VS Code</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman"/>
+<br/>
+<b>Postman</b>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="45" alt="Vite"/>
+<br/>
+<b>Vite</b>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 
 
