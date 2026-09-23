@@ -183,20 +183,20 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <table align="center" width="100%">
 <tr>
 
-<!-- ========================= -->
-<!-- GITHUB -->
-<!-- ========================= -->
+<!-- ==================== GITHUB ==================== -->
 
 <td align="center" valign="top" width="50%">
 
 <h3>📊 GitHub Statistics</h3>
 
 <a href="https://github.com/Sanjeet3065">
-  <img
-    src="./assets/github-stats.svg"
-    alt="Sanjeet Chauhan GitHub Statistics"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=false&cache_seconds=1800"
+  alt="Sanjeet Chauhan GitHub Statistics"
+  width="100%"
+/>
+
 </a>
 
 <br><br>
@@ -204,11 +204,13 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <h3>🔥 Contribution Streak</h3>
 
 <a href="https://github.com/Sanjeet3065">
-  <img
-    src="./assets/github-streak.svg"
-    alt="Sanjeet Chauhan GitHub Contribution Streak"
-    width="100%"
-  />
+
+<img
+  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=false&cache_seconds=86400"
+  alt="Sanjeet Chauhan GitHub Contribution Streak"
+  width="100%"
+/>
+
 </a>
 
 <br><br>
@@ -216,39 +218,43 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <h3>💻 Top Languages</h3>
 
 <a href="https://github.com/Sanjeet3065">
-  <img
-    src="./assets/github-languages.svg"
-    alt="Sanjeet Chauhan Top Languages"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet3065&layout=compact&langs_count=8&theme=radical&hide_border=false&cache_seconds=1800"
+  alt="Sanjeet Chauhan Top Languages"
+  width="100%"
+/>
+
 </a>
 
 </td>
 
 
-<!-- ========================= -->
-<!-- LEETCODE -->
-<!-- ========================= -->
+<!-- ==================== LEETCODE ==================== -->
 
 <td align="center" valign="top" width="50%">
 
 <h3>🧑‍💻 LeetCode Statistics</h3>
 
 <a href="https://leetcode.com/u/Sanjeet_1080/">
-  <img
-    src="./assets/leetcode-stats.svg"
-    alt="Sanjeet_1080 LeetCode Statistics"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Sanjeet_1080&theme=dark&sections=profile,solved,streak,skills,languages&top_skills=8&top_langs=8"
+  alt="Sanjeet_1080 LeetCode Statistics"
+  width="100%"
+/>
+
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/Sanjeet_1080/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="Visit LeetCode Profile"
-  />
+
+<img
+  src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="Visit LeetCode Profile"
+/>
+
 </a>
 
 </td>
