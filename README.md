@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjeet%20Chauhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Cloud%20Computing&descSize=18&descAlignY=55&textBg=false"/>
 
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Sanjeet3065">
-    <img src="https://komarev.com/ghpvc/?username=Sanjeet3065&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sanjeet3065's profile views" />
-  </a>
-</p>
-
 
 ## 📌 About Me
 - 🌱 I'm currently learning MERN Stack, Java, DSA & Cloud Computing
