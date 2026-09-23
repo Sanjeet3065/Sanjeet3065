@@ -191,7 +191,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://github.com/Sanjeet3065">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&include_all_commits=true&count_private=false&theme=radical&cache_seconds=1800&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&include_all_commits=true&count_private=false&theme=radical&border_radius=10"
   alt="Sanjeet Chauhan GitHub Statistics"
   width="100%"
 />
@@ -205,7 +205,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://github.com/Sanjeet3065">
 
 <img
-  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400"
+  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true"
   alt="Sanjeet Chauhan GitHub Streak"
   width="100%"
 />
@@ -214,16 +214,21 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 </td>
 
+
 <!-- ==================== LEETCODE ==================== -->
 <td align="center" valign="top" width="50%">
 
 <h3>🧑‍💻 LeetCode Statistics</h3>
 
+<a href="https://leetcode.com/u/Sanjeet_1080/">
+
 <img
-  src="./assets/leetcode-stats.svg"
+  src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Sanjeet_1080&theme=radical&sections=profile,solved,streak,skills&top_skills=8"
   alt="Sanjeet_1080 LeetCode Statistics"
   width="100%"
 />
+
+</a>
 
 <br><br>
 
@@ -242,6 +247,9 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </table>
 
 <br/>
+
+
+
 
 ## 🔗 Connect with Me
 
