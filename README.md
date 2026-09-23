@@ -215,15 +215,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 <br><br>
 
-<h3>💻 Top Languages</h3>
-
-<a href="https://github.com/Sanjeet3065">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet3065&layout=compact&langs_count=8&theme=radical&hide_border=false&cache_seconds=1800"
-  alt="Sanjeet Chauhan Top Languages"
-  width="100%"
-/>
 
 </a>
 
