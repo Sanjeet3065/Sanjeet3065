@@ -184,61 +184,55 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <tr>
 
 <!-- ==================== GITHUB ==================== -->
+
 <td align="center" valign="top" width="50%">
 
 <h3>📊 GitHub Statistics</h3>
 
 <a href="https://github.com/Sanjeet3065">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&include_all_commits=true&count_private=false&theme=radical&border_radius=10"
-  alt="Sanjeet Chauhan GitHub Statistics"
-  width="100%"
-/>
-
+  <img
+    src="./assets/github-stats.svg"
+    alt="GitHub Statistics"
+    width="100%"
+  />
 </a>
 
 <br><br>
 
-<h3>🔥 Current GitHub Streak</h3>
+<h3>🔥 GitHub Contribution Streak</h3>
 
 <a href="https://github.com/Sanjeet3065">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true"
-  alt="Sanjeet Chauhan GitHub Streak"
-  width="100%"
-/>
-
+  <img
+    src="./assets/github-streak.svg"
+    alt="GitHub Contribution Streak"
+    width="100%"
+  />
 </a>
 
 </td>
 
 
 <!-- ==================== LEETCODE ==================== -->
+
 <td align="center" valign="top" width="50%">
 
 <h3>🧑‍💻 LeetCode Statistics</h3>
 
 <a href="https://leetcode.com/u/Sanjeet_1080/">
-
-<img
-  src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Sanjeet_1080&theme=radical&sections=profile,solved,streak,skills&top_skills=8"
-  alt="Sanjeet_1080 LeetCode Statistics"
-  width="100%"
-/>
-
+  <img
+    src="./assets/leetcode-stats.svg"
+    alt="LeetCode Statistics"
+    width="100%"
+  />
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/Sanjeet_1080/">
-
-<img
-  src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-  alt="Visit LeetCode Profile"
-/>
-
+  <img
+    src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode Profile"
+  />
 </a>
 
 </td>
@@ -247,9 +241,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </table>
 
 <br/>
-
-
-
 
 ## 🔗 Connect with Me
 
