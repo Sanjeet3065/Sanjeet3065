@@ -11,7 +11,7 @@
 </p>
 
 
-## 👨‍💻 Full-Stack Developer
+## About Me
 
 Computer Science Engineering student passionate about building scalable,  
 reliable web applications and solving real-world problems. Focused on  
