@@ -180,26 +180,64 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </tr>
 </table>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub & LeetCode Analytics
 
-<p align="center">
-  <a href="https://github.com/Sanjeet3065">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sanjeet3065's GitHub Stats" />
-  </a>
+<table align="center" width="100%">
+<tr>
 
-  <img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400" alt="Sanjeet3065's GitHub Streak" width="49%" />
-</p>
+<!-- GITHUB -->
+<td align="center" valign="top" width="50%">
 
-<p align="center">
-  <a href="https://github.com/Sanjeet3065">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjeet3065&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<h3>📊 GitHub Statistics</h3>
 
-![Top language](https://stats.pphat.top/languages?username=Sanjeet3065)
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+  alt="Sanjeet3065 GitHub Statistics"
+  width="100%"
+/>
+
+<br><br>
+
+<h3>🔥 Current GitHub Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400"
+  alt="Sanjeet3065 GitHub Streak"
+  width="100%"
+/>
+
+</td>
+
+<!-- LEETCODE -->
+<td align="center" valign="top" width="50%">
+
+<h3>🧑‍💻 LeetCode Statistics</h3>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+
+<img
+  src="https://github-readme-leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark"
+  alt="LeetCode Statistics"
+  width="100%"
+/>
+
+</a>
+
+<br>
+
+<sub>
+🔥 Total Solved &nbsp; • &nbsp;
+🟢 Easy &nbsp; • &nbsp;
+🟡 Medium &nbsp; • &nbsp;
+🔴 Hard
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
-
 ## 🔗 Connect with Me
 
 <p align="center">
