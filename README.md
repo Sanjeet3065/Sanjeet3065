@@ -82,7 +82,7 @@ responsive user experiences, and maintainable code.
 <td align="center" valign="top" width="20%">
 
 ### 🎨 Frontend
-
+<hr>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
 &nbsp;
