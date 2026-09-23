@@ -72,7 +72,6 @@ responsive user experiences, and maintainable code.
 
 </tr>
 </table>
-
 ## 🛠️ Languages & Tools
 
 <table align="center" width="100%">
@@ -83,28 +82,21 @@ responsive user experiences, and maintainable code.
 
 ### 🎨 Frontend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React"/>
-<br/><sub><b>React</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" alt="Tailwind CSS"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" alt="HTML5"/>
-<br/><sub><b>HTML5</b></sub>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" alt="CSS3"/>
-<br/><sub><b>CSS3</b></sub>
-
-<br/>
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" alt="Tailwind CSS"/>
-<br/><sub><b>Tailwind</b></sub>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="36" alt="Bootstrap"/>
-<br/><sub><b>Bootstrap</b></sub>
+<sub>
+React&nbsp;&nbsp; HTML5&nbsp;&nbsp; CSS3&nbsp;&nbsp; Tailwind&nbsp;&nbsp; Bootstrap
+</sub>
 
 </td>
 
@@ -113,13 +105,15 @@ responsive user experiences, and maintainable code.
 
 ### ⚙️ Backend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
-<br/><sub><b>Node.js</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" alt="Express.js"/>
-<br/><sub><b>Express.js</b></sub>
+<sub>
+Node.js&nbsp;&nbsp; Express.js
+</sub>
 
 </td>
 
@@ -128,18 +122,17 @@ responsive user experiences, and maintainable code.
 
 ### 🗄️ Database
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/>
-<br/><sub><b>MySQL</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/>
-<br/><sub><b>PostgreSQL</b></sub>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/>
-<br/><sub><b>MongoDB</b></sub>
+<sub>
+MySQL&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp; MongoDB
+</sub>
 
 </td>
 
@@ -148,8 +141,11 @@ responsive user experiences, and maintainable code.
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36" alt="AWS"/>
-<br/><sub><b>AWS</b></sub>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" alt="AWS"/>
+
+<br/>
+
+<sub>AWS</sub>
 
 </td>
 
@@ -158,29 +154,24 @@ responsive user experiences, and maintainable code.
 
 ### 🔧 Tools
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" alt="Git"/>
-<br/><sub><b>Git</b></sub>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="32" alt="VS Code"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="32" alt="Vite"/>
 
 <br/>
 
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="36" alt="VS Code"/>
-<br/><sub><b>VS Code</b></sub>
-
-<br/>
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" alt="Postman"/>
-<br/><sub><b>Postman</b></sub>
-
-<br/>
-
-<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="36" alt="Vite"/>
-<br/><sub><b>Vite</b></sub>
+<sub>
+Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
+</sub>
 
 </td>
 
 </tr>
 </table>
-
 
 
 
