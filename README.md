@@ -38,10 +38,6 @@ responsive user experiences, and maintainable code.
 </p>
 
 <p>
-<a href="https://leetcode.com/u/Sanjeet_1080/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="27">
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="27">
 </a>
@@ -54,6 +50,10 @@ responsive user experiences, and maintainable code.
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="27">
 </a>
 &nbsp;
+  <a href="https://leetcode.com/u/Sanjeet_1080/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="27">
+</a>
+  &nbsp;
 <a href="https://wa.me/919118123480">
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="27">
 </a>
