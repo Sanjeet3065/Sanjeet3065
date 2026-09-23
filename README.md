@@ -179,7 +179,40 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </table>
 
 
-<!-- ==================== LEETCODE ==================== -->
+## 📊 GitHub & LeetCode Analytics
+
+<table align="center" width="100%">
+<tr>
+
+<!-- GITHUB -->
+<td align="center" valign="top" width="50%">
+
+<h3>📊 GitHub Statistics</h3>
+
+<a href="https://github.com/Sanjeet3065">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+  alt="Sanjeet Chauhan GitHub Statistics"
+  width="100%"
+/>
+
+</a>
+
+<br><br>
+
+<h3>🔥 Current GitHub Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400"
+  alt="Sanjeet Chauhan GitHub Streak"
+  width="100%"
+/>
+
+</td>
+
+
+<!-- LEETCODE -->
 <td align="center" valign="top" width="50%">
 
 <h3>🧑‍💻 LeetCode Statistics</h3>
@@ -194,19 +227,21 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 </a>
 
-<br>
+<br><br>
 
 <a href="https://leetcode.com/u/Sanjeet_1080/">
-
-<img
-  src="https://img.shields.io/badge/Visit%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-  alt="Visit LeetCode Profile"
-/>
-
+  <img
+    src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode Profile"
+  />
 </a>
 
 </td>
 
+</tr>
+</table>
+
+<br/>
 
 ## 🔗 Connect with Me
 
