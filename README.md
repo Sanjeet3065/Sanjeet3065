@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 Developer &amp; Problem Solver</h2>
 
-
+<hr>
 
 <p>
 Computer Science Engineering student and Full-Stack Developer building
@@ -82,7 +82,7 @@ responsive user experiences, and maintainable code.
 <td align="center" valign="top" width="20%">
 
 ### 🎨 Frontend
-<hr width="80%">
+<hr>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
 &nbsp;
@@ -106,7 +106,7 @@ React&nbsp;&nbsp; HTML5&nbsp;&nbsp; CSS3&nbsp;&nbsp; Tailwind&nbsp;&nbsp; Bootst
 <td align="center" valign="top" width="20%">
 
 ### ⚙️ Backend
-<hr width="80%">
+<hr>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
 &nbsp;
@@ -124,7 +124,7 @@ Node.js&nbsp;&nbsp; Express.js
 <td align="center" valign="top" width="20%">
 
 ### 🗄️ Database
-<hr width="80%">
+<hr>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL"/>
 &nbsp;
@@ -144,7 +144,7 @@ MySQL&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp; MongoDB
 <td align="center" valign="top" width="20%">
 
 ### ☁️ DevOps &amp; Cloud
-<hr width="80%">
+<hr>
 
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" alt="AWS"/>
 
@@ -158,7 +158,7 @@ MySQL&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp; MongoDB
 <td align="center" valign="top" width="20%">
 
 ### 🔧 Tools
-<hr width="80%">
+<hr>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"/>
 &nbsp;
