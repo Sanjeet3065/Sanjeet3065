@@ -10,43 +10,51 @@
   </a>
 </p>
 
-## ⚡About Me
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
 
 <td width="65%" valign="middle">
 
-### 👨‍💻 Developer & Problem Solver
+<h3>👨‍💻 Developer &amp; Problem Solver</h3>
 
+<hr>
+
+<p>
 Computer Science Engineering student passionate about building scalable,
 reliable web applications and solving real-world problems.
+</p>
 
-I focus on **MERN Stack, Java, DSA, Backend Development,**
-and **Cloud Computing**.
+<p>
+I focus on <strong>MERN Stack</strong>, <strong>Java</strong>,
+<strong>DSA</strong>, <strong>Backend Development</strong>,
+and <strong>Cloud Computing</strong>.
+</p>
 
 <br>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Sanjeet3065">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
 </a>
 
 <br><br>
 
 <a href="mailto:chauhansanjeet887@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://wa.me/919118123480">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="32">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30">
 </a>
 
 </td>
@@ -54,13 +62,14 @@ and **Cloud Computing**.
 <td width="35%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="240"
+     width="245"
      alt="Developer Coding Animation">
 
 </td>
 
 </tr>
 </table>
+
 
 
 ## 🧠 My Focus Areas
