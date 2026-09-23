@@ -74,15 +74,6 @@ responsive user experiences, and maintainable code.
 </table>
 
 
-## 🧠 My Focus Areas
-
-- Web Development
-- Java & Data Structures & Algorithms
-- Backend Development
-- Cloud Computing
-- Full-Stack Application Development
-- Open Source & Real-World Projects
-
 
 ## 📊 GitHub Stats & Trophies
 
