@@ -216,7 +216,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 
 <img
-  src="https://github-readme-leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark"
+  src="https://github-readme-leetcode-stats.vercel.app/api?username=Sanjeet_1080&theme=dark"
   alt="LeetCode Statistics"
   width="100%"
 />
@@ -238,6 +238,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </table>
 
 <br/>
+
 ## 🔗 Connect with Me
 
 <p align="center">
