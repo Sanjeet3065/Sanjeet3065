@@ -1,17 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjeet%20Chauhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Cloud%20Computing&descSize=18&descAlignY=55&textBg=false"/>
-
+<!-- ========================= HERO ========================= -->
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
 # Sanjeet Chauhan
 
 ### `MERN Stack Developer | Java | DSA | Cloud Computing`
 
 Computer Science Engineering student focused on building
-modern, scalable web applications and solving algorithmic
-problems using Java and Data Structures & Algorithms.
+modern web applications, solving problems with Java & DSA,
+and exploring cloud technologies.
 
 <p>
   <a href="https://github.com/Sanjeet3065">
@@ -24,10 +23,10 @@ problems using Java and Data Structures & Algorithms.
 
 <p>
   <a href="https://wa.me/919118123480">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:chauhansanjeet887@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sanjeetchauhan832/">
     <img src="https://img.shields.io/badge/Instagram-sanjeetchauhan832-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -36,106 +35,299 @@ problems using Java and Data Structures & Algorithms.
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://illustrations.popsy.co/white/developer.svg" width="360" alt="Developer Illustration"/>
+<img
+  src="https://illustrations.popsy.co/white/developer.svg"
+  width="350"
+  alt="Developer Illustration"
+/>
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Sanjeet3065">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sanjeet3065's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400" alt="Sanjeet3065's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeet3065&theme=radical&radius=10" alt="Sanjeet3065's Activity Graph" />
-</p>
+---
 
+<!-- ========================= ABOUT ========================= -->
 
-## 🛠️ Languages & Tools
+## 👨‍💻 About Me
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+- 🎓 B.Tech Computer Science & Engineering student at Shri Ramswaroop Memorial University
+- 🌱 Currently learning **MERN Stack, Java, DSA & Cloud Computing**
+- 💻 Building **real-world web applications**
+- 🧠 Interested in **Software Development, Backend Development & Cloud**
+- 🤝 Open to interesting projects and collaboration
+- 🚀 Focused on becoming a strong Software Developer
 
-</p>
+---
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+<!-- ========================= TECH STACK ========================= -->
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-<h3 align="center">Backend</h3>
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+</p>
+
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+</p>
+
+---
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technology</th>
+</tr>
+
+<tr>
+<td>
+
+### Connectly
+
+Real-Time Communication Platform
+
+</td>
+
+<td>
+
+Google-Meet-inspired real-time communication application with
+video communication, meetings, chat and collaboration features.
+
+</td>
+
+<td>
+
+React • Vite • Supabase • WebRTC
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### MediCare
+
+Online Pharmacy
+
+</td>
+
+<td>
+
+Online pharmacy web application with medicine browsing,
+cart management and persistent cart data.
+
+</td>
+
+<td>
+
+HTML • CSS • JavaScript • Node.js • MongoDB
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Weather App
+
+Weather & Forecast Application
+
+</td>
+
+<td>
+
+Weather application with city search, coordinates,
+forecast information, favorites and temperature conversion.
+
+</td>
+
+<td>
+
+HTML • CSS • JavaScript • OpenWeatherMap API
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Green Path
+
+Smart Route Planning
+
+</td>
+
+<td>
+
+Concept for finding cleaner routes using environmental
+and traffic-related factors such as air quality.
+
+</td>
+
+<td>
+
+React • APIs • Data Analysis
+
+</td>
+</tr>
+
+</table>
+
+### 🔗 Projects
+
+- [Connectly Repository](https://github.com/Sanjeet3065/CodeAlpha_Real-Time-Communication-App)
+- [MediCare Online Pharmacy](https://github.com/Sanjeet3065/Online-Pharmacy-Website)
+
+---
+
+<!-- ========================= GITHUB ========================= -->
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    height="180"
+    alt="Sanjeet's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeet3065&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+<!-- ========================= STREAK ========================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ========================= CODING ========================= -->
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+</a>
+
+<a href="https://github.com/Sanjeet3065">
+<img src="https://img.shields.io/badge/GitHub-Sanjeet3065-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+### 🧩 LeetCode
 
-</p>
+Focused on solving Data Structures & Algorithms problems
+using Java.
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+---
 
-</p>
+<!-- ========================= ACHIEVEMENTS ========================= -->
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+## 🏆 Achievements
 
-</p>
+- 🥇 **Algo Arena — 1st Rank**
+- 🥉 **Find the Language — 3rd Rank**
+- 🥈 **Codex Problem Solving Competition — 2nd in Category**
+- 🚀 **Smart India Hackathon 2026 — Team Llama_1.0**
 
-<p align="center">
-  <a href="https://github.com/Sanjeet3065">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjeet3065&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+---
 
-![Top language](https://stats.pphat.top/languages?username=Sanjeet3065)
-<br/>
+<!-- ========================= EXPERIENCE ========================= -->
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/919118123480">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:chauhansanjeet887@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+## 💼 Experience
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### Remote Task Reviewer — DreamLiner Scaler AI Lab
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+Worked on task reviewing and operational workflows using
+tools for project management, communication, scheduling
+and data organization.
 
+### Web Development Intern — Coding Blocks
+
+Worked with:
+
+`HTML` `CSS` `JavaScript` `React` `Express` `MongoDB` `SQL`
+
+Developed an **Online Pharmacy Website** as part of the
+internship work.
+
+---
+
+<!-- ========================= EDUCATION ========================= -->
+
+## 🎓 Education
+
+### Shri Ramswaroop Memorial University
+
+**B.Tech — Computer Science & Engineering**
+
+---
+
+<!-- ========================= LEARNING ========================= -->
+
+## 🌱 Currently Learning
+
+```text
+Java & Data Structures
+        ↓
+MERN Stack
+        ↓
+Backend Development
+        ↓
+Cloud Computing
+        ↓
+AWS
