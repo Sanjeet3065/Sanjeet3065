@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sanjeet%20Chauhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Cloud%20Computing&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&deleteSpeed=50&color=00FF41&center=true&vCenter=true&width=700&lines=Turning%20ideas%20into%20code%2C%20and%20code%20into%20solutions.%20%F0%9F%92%BB;MERN%20Stack%20Developer;DSA%20%26%20Java%20Developer;Full-Stack%20Developer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&deleteSpeed=50&color=00FF41&center=true&vCenter=true&width=700&lines=Turning%20ideas%20into%20code%2C%20and%20code%20into%20solutions.%20%F0%9F%92%BB;MERN%20Stack%20Developer;DSA%20%26%20Java%20Developer;Full-Stack%20Developer" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <td width="72%" valign="middle">
 
-<h3>👨‍💻 Developer &amp; Problem Solver</h3>
+<h2>👨‍💻 Developer &amp; Problem Solver</h2>
 
 <hr>
 
@@ -143,7 +143,7 @@ MySQL&nbsp;&nbsp; PostgreSQL&nbsp;&nbsp; MongoDB
 <!-- DEVOPS -->
 <td align="center" valign="top" width="20%">
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps &amp; Cloud
 <hr width="80%">
 
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" alt="AWS"/>
@@ -179,9 +179,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </tr>
 </table>
 
-
-
-
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -192,7 +189,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
   <img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400" alt="Sanjeet3065's GitHub Streak" width="49%" />
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Sanjeet3065">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjeet3065&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
@@ -202,7 +198,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 ![Top language](https://stats.pphat.top/languages?username=Sanjeet3065)
 
 <br/>
-
 
 ## 🔗 Connect with Me
 
@@ -222,7 +217,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -234,13 +228,11 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
   </a>
 </p>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
