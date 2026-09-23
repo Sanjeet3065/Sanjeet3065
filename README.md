@@ -10,30 +10,51 @@
   </a>
 </p>
 
-
 ## About Me
 
-Computer Science Engineering student passionate about building scalable,  
-reliable web applications and solving real-world problems. Focused on  
+<table>
+<tr>
+<td width="65%" valign="center">
+
+Computer Science Engineering student passionate about building scalable,
+reliable web applications and solving real-world problems. Focused on
 MERN Stack, Java, DSA, backend development, and Cloud Computing.
 
-<p align="left">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Sanjeet3065">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:chauhansanjeet887@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/919118123480">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+<br><br>
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sanjeetchauhan01/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sanjeet3065">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<a href="mailto:chauhansanjeet887@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://wa.me/919118123480">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</td>
+
+<td width="35%" align="center" valign="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="280"
+     alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🧠 My Focus Areas
