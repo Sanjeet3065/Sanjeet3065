@@ -74,18 +74,6 @@ responsive user experiences, and maintainable code.
 </table>
 
 
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/Sanjeet3065">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sanjeet3065's GitHub Stats" />
-  </a>
-
-  <img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400" alt="Sanjeet3065's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -153,6 +141,21 @@ responsive user experiences, and maintainable code.
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/Sanjeet3065">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sanjeet3065&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Sanjeet3065's GitHub Stats" />
+  </a>
+
+  <img src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true&cache_seconds=86400" alt="Sanjeet3065's GitHub Streak" width="49%" />
 </p>
 
 
