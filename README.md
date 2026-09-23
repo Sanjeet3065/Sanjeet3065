@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 Developer &amp; Problem Solver</h2>
 
-<hr>
+
 
 <p>
 Computer Science Engineering student and Full-Stack Developer building
