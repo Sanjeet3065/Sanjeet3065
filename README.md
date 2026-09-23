@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Sanjeet3065">
-    <img src="https://komarev.com/ghpvc/?username=Sanjeet3065&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sanjeet3065's profile views" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=Sanjeet3065&label=Profile%20Views&color=00FFFF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ## 👨‍💻 About Me
