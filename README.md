@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 Developer &amp; Problem Solver</h2>
 
-<hr>
+
 
 <p>
 Computer Science Engineering student and Full-Stack Developer building
@@ -82,7 +82,7 @@ responsive user experiences, and maintainable code.
 <td align="center" valign="top" width="20%">
 
 ### 🎨 Frontend
-<hr>
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
 &nbsp;
