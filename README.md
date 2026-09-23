@@ -12,20 +12,17 @@
 </p>
 
 
-## 📌 About Me
-- 🌱 I'm currently learning MERN Stack, Java, DSA & Cloud Computing
-- 💻 I'm building real-world web applications
-- 🤝 I'm looking to collaborate on interesting software projects
-- 🎯 I'm focused on becoming a skilled Software Developer
+## 👨‍💻 About Me
 
+I'm a **Computer Science Engineering student** passionate about building scalable, user-focused software and solving real-world problems through technology.
 
-## 🧠 My Focus Areas
-- Web Development
-- Java & Data Structures & Algorithms
-- Backend Development
-- Cloud Computing
-- Full-Stack Application Development
-- Open Source & Real-World Projects
+- 🚀 Building **full-stack web applications** using the MERN stack
+- ☕ Strengthening **Java, Data Structures & Algorithms** for problem solving
+- ☁️ Exploring **Cloud Computing and AWS** to understand modern application deployment
+- 🛠️ Enjoy working with **APIs, databases, backend systems, and developer tools**
+- 💡 Interested in turning ideas into **practical, reliable, and impactful software**
+- 🤝 Open to **collaborating on innovative projects and open-source contributions**
+- 🎯 Focused on continuously improving my **development, problem-solving, and software engineering skills**
 
 
 ## 📊 GitHub Stats & Trophies
