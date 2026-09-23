@@ -182,37 +182,29 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 <table align="center" width="100%">
 <tr>
+## 📊 GitHub Statistics
 
-<!-- ==================== GITHUB ==================== -->
-<td align="center" valign="top" width="50%">
+<p align="center">
+  <a href="https://github.com/Sanjeet3065">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&theme=radical&hide_border=false"
+      alt="Sanjeet Chauhan GitHub Stats"
+    />
+  </a>
+</p>
 
-<h3>📊 GitHub Statistics</h3>
+<br>
 
-<a href="https://github.com/Sanjeet3065">
+## 🔥 GitHub Contribution Streak
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Sanjeet3065&show_icons=true&include_all_commits=true&count_private=false&theme=radical&border_radius=10"
-  alt="Sanjeet Chauhan GitHub Statistics"
-  width="100%"
-/>
-
-</a>
-
-<br><br>
-
-<h3>🔥 Current GitHub Streak</h3>
-
-<a href="https://github.com/Sanjeet3065">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=true"
-  alt="Sanjeet Chauhan GitHub Streak"
-  width="100%"
-/>
-
-</a>
-
-</td>
+<p align="center">
+  <a href="https://github.com/Sanjeet3065">
+    <img
+      src="https://streak-stats.demolab.com/?user=Sanjeet3065&theme=radical&hide_border=false"
+      alt="Sanjeet Chauhan GitHub Streak"
+    />
+  </a>
+</p>
 
 
 <!-- ==================== LEETCODE ==================== -->
