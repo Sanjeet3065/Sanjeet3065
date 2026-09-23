@@ -20,8 +20,6 @@
 
 <h2>👨‍💻 Developer &amp; Problem Solver</h2>
 
-
-
 <p>
 Computer Science Engineering student and Full-Stack Developer building
 scalable, reliable web applications and practical digital solutions.
@@ -40,7 +38,7 @@ responsive user experiences, and maintainable code.
 </p>
 
 <p>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Sanjeet_1080/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="27">
 </a>
 &nbsp;
@@ -216,7 +214,6 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 </td>
 
-
 <!-- ==================== LEETCODE ==================== -->
 <td align="center" valign="top" width="50%">
 
@@ -246,35 +243,37 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 
 <br/>
 
-
-
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjeetchauhan01/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;
 
-  <a href="https://wa.me/919118123480">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanjeetchauhan01/">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+</a>
+&nbsp;&nbsp;
 
-  <a href="mailto:chauhansanjeet887@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+<a href="https://wa.me/919118123480">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:chauhansanjeet887@gmail.com">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email Me" width="40" />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  &nbsp;
 
-  <a href="https://github.com/Sanjeet3065">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://leetcode.com/u/Sanjeet_1080/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;
+
+<a href="https://github.com/Sanjeet3065">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 <picture>
