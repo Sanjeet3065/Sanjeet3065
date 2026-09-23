@@ -183,7 +183,9 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <table align="center" width="100%">
 <tr>
 
-<!-- ==================== GITHUB ==================== -->
+<!-- ========================= -->
+<!-- GITHUB -->
+<!-- ========================= -->
 
 <td align="center" valign="top" width="50%">
 
@@ -192,19 +194,31 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://github.com/Sanjeet3065">
   <img
     src="./assets/github-stats.svg"
-    alt="GitHub Statistics"
+    alt="Sanjeet Chauhan GitHub Statistics"
     width="100%"
   />
 </a>
 
 <br><br>
 
-<h3>🔥 GitHub Contribution Streak</h3>
+<h3>🔥 Contribution Streak</h3>
 
 <a href="https://github.com/Sanjeet3065">
   <img
     src="./assets/github-streak.svg"
-    alt="GitHub Contribution Streak"
+    alt="Sanjeet Chauhan GitHub Contribution Streak"
+    width="100%"
+  />
+</a>
+
+<br><br>
+
+<h3>💻 Top Languages</h3>
+
+<a href="https://github.com/Sanjeet3065">
+  <img
+    src="./assets/github-languages.svg"
+    alt="Sanjeet Chauhan Top Languages"
     width="100%"
   />
 </a>
@@ -212,7 +226,9 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 </td>
 
 
-<!-- ==================== LEETCODE ==================== -->
+<!-- ========================= -->
+<!-- LEETCODE -->
+<!-- ========================= -->
 
 <td align="center" valign="top" width="50%">
 
@@ -221,7 +237,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://leetcode.com/u/Sanjeet_1080/">
   <img
     src="./assets/leetcode-stats.svg"
-    alt="LeetCode Statistics"
+    alt="Sanjeet_1080 LeetCode Statistics"
     width="100%"
   />
 </a>
@@ -231,7 +247,7 @@ Git&nbsp;&nbsp; VS Code&nbsp;&nbsp; Postman&nbsp;&nbsp; Vite
 <a href="https://leetcode.com/u/Sanjeet_1080/">
   <img
     src="https://img.shields.io/badge/LeetCode-Sanjeet__1080-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode Profile"
+    alt="Visit LeetCode Profile"
   />
 </a>
 
